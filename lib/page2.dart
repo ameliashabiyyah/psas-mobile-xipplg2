@@ -13,12 +13,12 @@ class page2 extends StatelessWidget {
               Container(
                 height: 100,
                 width: 100,
-                color: Color.fromARGB(255, 241, 88, 196),
+                color: Color.fromARGB(255, 25, 89, 141),
               ),
               Container(
                 height: 100,
                 width: 100,
-                color: Color.fromARGB(255, 190, 97, 209),
+                color: Color.fromARGB(255, 130, 198, 238),
               ),
             ],
           ),
@@ -32,7 +32,7 @@ class page2 extends StatelessWidget {
               Container(
                 height: 100,
                 width: 100,
-                color: Colors.yellow,
+                color: Color.fromARGB(255, 4, 54, 146),
               ),
             ],
           )
